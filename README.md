@@ -1,2 +1,2 @@
-# SQL-Project
+# SQL-Code
 My SQL Project
